@@ -4,5 +4,7 @@
     "batch_size_bytes": 800,
     "cache_file": "translation_cache.json",
     "openai_key": null,
-    "max_concurrent_tasks": 1
+    "max_concurrent_tasks": 5,
+    "input_token_rate": 0.075,
+    "output_token_rate": 0.6
 }
