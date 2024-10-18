@@ -1,0 +1,8 @@
+{
+    "mod_path": null,
+    "mock_translation": false,
+    "batch_size_bytes": 800,
+    "cache_file": "translation_cache.json",
+    "openai_key": null,
+    "max_concurrent_tasks": 1
+}
